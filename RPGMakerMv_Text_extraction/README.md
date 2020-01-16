@@ -1,0 +1,1 @@
+# RPGMakerMV_Text_extraction
